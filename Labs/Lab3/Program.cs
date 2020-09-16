@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Concurrent;
 
 namespace Lab3
 {
@@ -7,22 +8,21 @@ namespace Lab3
         static void Main(string[] args)
         {
             int a, b, c;
-            Console.Write("Enter 1st number: ");
+            Console.Write("Enter 1st coeff: ");
             a = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter 2nd number: ");
+            Console.Write("Enter 2nd coeff: ");
             b = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter 3rd number: ");
+            Console.Write("Enter 3rd coeff: ");
             c = Convert.ToInt32(Console.ReadLine());
-            if(a==b || a==c || b==c)
+            int diskr = b * b - 4 * a * c;
+            if(diskr>=0)
             {
-                Console.WriteLine("There is at least a pair of the same numbers");
+                Console.WriteLine("Equation has real roots");
             }
             else
             {
-                Console.WriteLine("There is not the same numbers");
+                Console.WriteLine("Equation has not real roots");
             }
-
-
         }
     }
 }
