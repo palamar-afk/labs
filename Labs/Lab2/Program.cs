@@ -20,7 +20,7 @@ namespace main
             {
                 for (int i = start_index; i < finish_index; i++)
                 {
-                    summ *= (i * i + Math.Pow(-1, i - 1) * 2 * i - 1) / (i * i + 8);
+                    summ += (i * i + Math.Pow(-1, i - 1) * 2 * i - 1) / (i * i + 8);
                 }
                 Console.WriteLine("Summ of row: " + summ);
             }

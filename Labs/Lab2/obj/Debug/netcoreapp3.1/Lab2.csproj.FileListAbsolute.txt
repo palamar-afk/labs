@@ -10,3 +10,16 @@ C:\Users\admin\source\repos\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCo
 C:\Users\admin\source\repos\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
 C:\Users\admin\source\repos\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
 C:\Users\admin\source\repos\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+C:\Users\admin\Documents\GitHub\labs\Labs\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
