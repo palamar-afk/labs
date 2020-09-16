@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-
+/* Скидан Павло ПД-21 Вариант 22(7) */
 namespace main
 {
     class Program

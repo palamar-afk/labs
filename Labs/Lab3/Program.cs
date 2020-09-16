@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Concurrent;
-
+/* Скидан Павло ПД-21 Вариант 22 */
 namespace Lab3
 {
     class Program

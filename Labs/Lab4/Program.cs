@@ -1,5 +1,5 @@
 ﻿using System;
-
+/* Скидан Павло ПД-21 Вариант 22 */
 namespace Lab4
 {
     class Program

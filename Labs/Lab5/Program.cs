@@ -1,5 +1,5 @@
 ﻿using System;
-
+/* Скидан Павло ПД-21 Вариант 22 */
 namespace Lab5
 {
     class Program
@@ -62,25 +62,35 @@ namespace Lab5
                     {
                         min = arr[i, j];
                         minIndex = i; 
-                        //minIndex = j; -- for columns
+                        //minIndex = j; //-- for columns
                     }
-                    else if(max<arr[i,j])
+                    if(max<arr[i,j])
                     {
                         max = arr[i, j];
                         maxIndex = i;
-                        //maxIndex = j;  -- for columns
+                        //maxIndex = j;  //-- for columns
                     }
                 }
             }
 
             Console.WriteLine("min=" + min);
             Console.WriteLine("max=" + max);
-            for (int j = 0; j < m; j++)
+            
+             for (int j = 0; j < m; j++)
             {
                 int temp = arr[maxIndex, j];
                 arr[maxIndex, j] = arr[minIndex, j];
                 arr[minIndex, j] = temp;
+            }            
+            
+            /* //-- for columns
+             * for (int i = 0; i < n; i++)
+            {
+                int temp = arr[i, maxIndex];
+                arr[i, maxIndex] = arr[i, minIndex];
+                arr[i, minIndex] = temp;
             }
+            */            
 
             for (int i = 0; i < n; i++)
             {
