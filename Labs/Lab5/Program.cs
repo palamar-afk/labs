@@ -84,7 +84,7 @@ namespace Lab5
             }            
             
             /* //-- for columns
-             * for (int i = 0; i < n; i++)
+             for (int i = 0; i < n; i++)
             {
                 int temp = arr[i, maxIndex];
                 arr[i, maxIndex] = arr[i, minIndex];
