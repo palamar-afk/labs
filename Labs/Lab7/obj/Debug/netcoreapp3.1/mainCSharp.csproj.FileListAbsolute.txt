@@ -1,0 +1,13 @@
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.exe
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.deps.json
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.runtimeconfig.json
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.runtimeconfig.dev.json
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.dll
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\bin\Debug\netcoreapp3.1\mainCSharp.pdb
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.csprojAssemblyReference.cache
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.AssemblyInfoInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.AssemblyInfo.cs
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.dll
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.pdb
+C:\Users\Fiede\source\repos\mainCSharp\mainCSharp\obj\Debug\netcoreapp3.1\mainCSharp.genruntimeconfig.cache
