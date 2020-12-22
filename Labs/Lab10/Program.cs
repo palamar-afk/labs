@@ -29,7 +29,7 @@ namespace Lab10
             Console.ForegroundColor = (ConsoleColor)9;
             Console.WriteLine($"Usual separator string: \t{usualSeparatorString}");
             Console.ResetColor();
-            Console.WriteLine($"Usual sepSTRING reverse: \t{usualSeparatorString.usualReverse("|")}"); //дефисами будет выделен разделитель(не баг :))
+            Console.WriteLine($"Usual sepSTRING reverse: \t{usualSeparatorString.usualReverse("|")}");
             Console.WriteLine($"Recursive sepSTRING reverse: \t{usualSeparatorString.RecursiveReverse('|')}");
             Console.WriteLine(new string('=', 40));
 
