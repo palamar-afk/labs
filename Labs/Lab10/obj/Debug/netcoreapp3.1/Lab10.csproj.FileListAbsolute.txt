@@ -1,0 +1,13 @@
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.deps.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.runtimeconfig.dev.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\bin\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.csprojAssemblyReference.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfoInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.AssemblyInfo.cs
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.dll
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab10\obj\Debug\netcoreapp3.1\Lab10.genruntimeconfig.cache
