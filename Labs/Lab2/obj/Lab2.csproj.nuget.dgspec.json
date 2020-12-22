@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj": {}
+    "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj": {
+    "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj",
+        "projectUniqueName": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj",
         "projectName": "Lab2",
-        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab2\\obj\\",
+        "projectPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab2\\Lab2.csproj",
+        "packagesPath": "C:\\Users\\Fiede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fiede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

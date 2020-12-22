@@ -1,0 +1,13 @@
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.deps.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.runtimeconfig.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.runtimeconfig.dev.json
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.dll
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\bin\Debug\netcoreapp3.1\Lab8.2.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.csprojAssemblyReference.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.AssemblyInfoInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.AssemblyInfo.cs
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.dll
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab8.2\obj\Debug\netcoreapp3.1\Lab8.2.genruntimeconfig.cache

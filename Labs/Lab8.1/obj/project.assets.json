@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fiede\\source\\repos\\mainCSharp\\Lab8\\Lab8.csproj",
+      "projectUniqueName": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab8.1\\Lab8.csproj",
       "projectName": "Lab8",
-      "projectPath": "C:\\Users\\Fiede\\source\\repos\\mainCSharp\\Lab8\\Lab8.csproj",
+      "projectPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab8.1\\Lab8.csproj",
       "packagesPath": "C:\\Users\\Fiede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fiede\\source\\repos\\mainCSharp\\Lab8\\obj\\",
+      "outputPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab8.1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fiede\\AppData\\Roaming\\NuGet\\NuGet.Config",

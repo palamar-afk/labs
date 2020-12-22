@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Fiede\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab5\\Lab5.csproj",
+      "projectUniqueName": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab5\\Lab5.csproj",
       "projectName": "Lab5",
-      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab5\\Lab5.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\labs\\Labs\\Lab5\\obj\\",
+      "projectPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab5\\Lab5.csproj",
+      "packagesPath": "C:\\Users\\Fiede\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fiede\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
