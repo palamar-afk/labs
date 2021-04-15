@@ -1,0 +1,10 @@
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\bin\Debug\Lab12.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\bin\Debug\Lab12.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.Form1.resources
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab12\obj\Debug\Lab12.pdb
