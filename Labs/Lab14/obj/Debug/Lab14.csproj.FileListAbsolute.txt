@@ -1,0 +1,10 @@
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\bin\Debug\Lab14.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\bin\Debug\Lab14.pdb
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.Form1.resources
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.exe
+C:\Users\Fiede\source\repos\mainCSharp\Lab14\obj\Debug\Lab14.pdb
