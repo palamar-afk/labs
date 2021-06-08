@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab7\\Lab7.csproj": {}
+    "C:\\Programming\\labs\\Labs\\Lab7\\Lab7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab7\\Lab7.csproj": {
+    "C:\\Programming\\labs\\Labs\\Lab7\\Lab7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab7\\Lab7.csproj",
+        "projectUniqueName": "C:\\Programming\\labs\\Labs\\Lab7\\Lab7.csproj",
         "projectName": "Lab7",
-        "projectPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab7\\Lab7.csproj",
+        "projectPath": "C:\\Programming\\labs\\Labs\\Lab7\\Lab7.csproj",
         "packagesPath": "C:\\Users\\Fiede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fiede\\Documents\\GitHub\\labs\\Labs\\Lab7\\obj\\",
+        "outputPath": "C:\\Programming\\labs\\Labs\\Lab7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fiede\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
