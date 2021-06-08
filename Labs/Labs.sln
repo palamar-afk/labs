@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab8", "Lab8.1\Lab8.csproj"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab8.2", "Lab8.2\Lab8.2.csproj", "{22A063BB-22A4-4C70-8A9D-E765B023E78C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleChat", "SimpleChat\SimpleChat.csproj", "{FADECC7D-CA9B-496F-B99D-BE03C0212335}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{22A063BB-22A4-4C70-8A9D-E765B023E78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A063BB-22A4-4C70-8A9D-E765B023E78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A063BB-22A4-4C70-8A9D-E765B023E78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADECC7D-CA9B-496F-B99D-BE03C0212335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADECC7D-CA9B-496F-B99D-BE03C0212335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADECC7D-CA9B-496F-B99D-BE03C0212335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADECC7D-CA9B-496F-B99D-BE03C0212335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
