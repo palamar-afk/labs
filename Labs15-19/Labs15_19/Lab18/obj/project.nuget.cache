@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1r2OqD6K88ckBCxDxvJzMf+cc/zcuPXat7ZZhrumCEsF/bFpdcJPV4Gjoi0RZMh1wU0cLF4576/HMpFDIclA/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\labs\\Labs15-19\\Labs15_19\\Lab18\\Lab18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fiede\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Fiede\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
